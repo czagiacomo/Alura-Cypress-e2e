@@ -1,7 +1,7 @@
 {
-  "name": "cypress",
-  "version": "1.0.0",
-  "description": "Aula de Cypress na Alura",
+  "name": "Alura Cypress e2e",
+  "version": "1.0.1",
+  "description": "Testes com Cypress feitos no site AluraPic",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
